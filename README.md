@@ -29,7 +29,7 @@ Bachelor's degree in Computer Science and Engineering.<br><br>I have a diverse s
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats:
+#
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Costa123&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <a href="https://visitcount.itsvg.in">
