@@ -29,7 +29,3 @@ Bachelor's degree in Computer Science and Engineering.<br><br>I have a diverse s
 
 #
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Costa123&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Pedro-Costa123&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
